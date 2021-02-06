@@ -1,8 +1,8 @@
 # Online Training Manuals
 
+This repository will allow you to create a mobile-first training manual. The interactive wireframe follows branch logic to move the user through each of the three modules based on user selection.
 
-
-This repository will allow the user to mix and match div. blocks to build a quick website similar to an Adobe Spark. All of the design elements you need to make a great presentation/web page are embedded in the document. We've also provided hidden comments to help guide you through the process. 
+Open each file to add content. Mix and match div. blocks to build quickly. All of the design elements you need are embedded in the document. We've also provided hidden comments to help guide you through the process. 
 
 We recommend you begin with one of our starter programs before using this one. 
 
@@ -11,7 +11,7 @@ We recommend you begin with one of our starter programs before using this one.
 ##Get started!
 
 
-1. Go to Training Manual [repository](https://github.com/Open-Fuego/online-training-manuals) 
+1. Go to Training Manual [repository](https://github.com/Open-Fuego/training-manual) 
 
 2. Click "Code" then "Download ZIP" to your local computer. 
 

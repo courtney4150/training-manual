@@ -5,7 +5,9 @@ body, html {
   background-color: dimgrey;
 }
 
-
+body {
+  display: flex;
+}
 
 
 .hero-image {
@@ -178,20 +180,45 @@ this css. element centers text elements*/
   }
 }  
     
+button {
+  background: white;
+  border: 1px solid black;
+  padding: 20px;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 2px;
+  color: black;
+}
 
- 
-    
-    
-    
+button:hover {
+  background: #999;
+  cursor: pointer;
+}
 
+iframe {
+  border: none;
+  height: 100%;
+}
 
+.hero-image {
+  flex: 1 1;
+}
 
+.flex-container {
+  padding: 40px;
+  padding-top: 0px;
+  background: black;
+}
 
+.content {
+  background: black;
+  display: flex;
+  flex-direction: column;
+}
 
-    
-
-
-    
-
-
-
+.content h3 {
+  color: white;
+  text-align: center;
+  font-size: 48px;
+}

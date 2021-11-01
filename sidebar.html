@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Sidebar</title>
+  <base target="_parent">
+  <style type="text/css">
+    body {
+      font-family: sans-serif;
+      font-size: 24px;
+      line-height: 1.5;
+    }
+    body, html, ul {
+      padding: 0;
+      margin: 0;
+    }
+    li {
+      list-style-type: none;
+    }
+    a {
+      display: block;
+      text-decoration: none;
+      padding: 10px;
+      background: lightgray;
+      color: #222;
+    }
+    a:hover {
+      background: #aaa;
+    }
+
+    /* different indentation levels */
+    li > a {
+      padding-left: 40px;
+    }
+    li li > a {
+      padding-left: 80px;
+    }
+  </style>
+</head>
+<body>
+  <ul>
+    <li><a href="index.html">Index</a></li>
+    <li><a href="intro.html">Intro</a></li>
+    <li>
+      <a href="module1.html">Module 1</a>
+      <ul>
+        <li><a href="module1S1.html">Scenario 1</a></li>
+        <li><a href="module1S2.html">Scenario 2</a></li>
+        <li><a href="module1S3.html">Scenario 3</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="module2.html">Module 2</a>
+      <ul>
+        <li><a href="module2S1.html">Scenario 1</a></li>
+        <li><a href="module2S2.html">Scenario 2</a></li>
+        <li><a href="module2S3.html">Scenario 3</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="module3.html">Module 3</a>
+      <ul>
+        <li><a href="module3S1.html">Scenario 1</a></li>
+        <li><a href="module3S2.html">Scenario 2</a></li>
+        <li><a href="module3S3.html">Scenario 3</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="module4.html">Module 4</a>
+      <ul>
+        <li><a href="module4S1.html">Scenario 1</a></li>
+        <li><a href="module4S2.html">Scenario 2</a></li>
+        <li><a href="module4S3.html">Scenario 3</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="module5.html">Module 5</a>
+      <ul>
+        <li><a href="module5S1.html">Scenario 1</a></li>
+        <li><a href="module5S2.html">Scenario 2</a></li>
+        <li><a href="module5S3.html">Scenario 3</a></li>
+      </ul>
+    </li>
+  </ul>
+</body>
+</html>

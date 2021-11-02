@@ -216,6 +216,7 @@ iframe {
   background: #659DBD;
   display: flex;
   flex-direction: column;
+  flex-grow: 1;
 }
 
 .content h3 {

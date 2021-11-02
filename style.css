@@ -156,13 +156,13 @@ this css. element centers text elements*/
 }
 
 .flex-item-left {
-  background-color: black;
+  background-color: #659DBD;
   padding: 10px;
   flex: 50%;
 }
 
 .flex-item-right {
-  background-color: black;
+  background-color: #659DBD;
   padding: 10px;
   flex: 50%;
 }
@@ -208,11 +208,11 @@ iframe {
 .flex-container {
   padding: 40px;
   padding-top: 0px;
-  background: black;
+  background: #659DBD;
 }
 
 .content {
-  background: black;
+  background: #659DBD;
   display: flex;
   flex-direction: column;
 }

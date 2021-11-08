@@ -23,7 +23,7 @@ We decided to show the navigation panel to the left at all times so users can ch
 
 
 ### Contributing:
-File naming convention: Each of the 5 modules' file is named `module1.hmtl`, `module2.html`, and so on. For each module, any subtopics' file is named `module1S1.html`, `module1S2.html`, and so on.
+File naming convention: Each of the 5 module files are named `module1.hmtl`, `module2.html`, and so on. For each module, any subtopic file is named `module1S1.html`, `module1S2.html`, and so on.
 
 Read our Contributor Covenant Code of Conduct here:
 https://github.com/courtney4150/training-manual/blob/main/CONTRIBUTING.md

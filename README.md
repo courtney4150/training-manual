@@ -1,12 +1,17 @@
 # Training Manual for Sustainable Development
 
+
 ## Developed by:
 Julia Mascho, Courtney Sheridan, Liam White McShane, Evan Fischer, and Emilea Suplick
+
 
 ## See the manual:
 https://courtney4150.github.io/training-manual/
 
-### Project History
+
+## More information:
+
+### Project History:
 Our team developed this project for ENGCMP 0600 INTRO TO TECHNICAL WRITING (Fall 2021) at the University of Pittsburgh with the goal of providing resources to fellow students about sustainable development. The manual features 5 sections: 
 * What is Sustainability?
 * Cities of the Future
